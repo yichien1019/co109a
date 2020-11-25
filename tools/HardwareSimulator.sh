@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+java#!/usr/bin/env sh
 
 # $Id: HardwareSimulator.sh,v 1.1 2014/06/17 21:14:01 marka Exp $
 # mark.armbrust@pobox.com
