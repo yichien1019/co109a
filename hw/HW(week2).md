@@ -31,6 +31,7 @@ CHIP Not16 {
     Not(in=in[15],out=out[15]);    
 }
 ```
+
 ## 8.And16
 #### code:
 ```
@@ -63,6 +64,7 @@ CHIP Not16 {
     And(a=a[15],b=b[15],out=out[15]);
   }
 ```
+
 ## 9.Or16
 #### code:
 ```
@@ -95,6 +97,7 @@ CHIP Not16 {
       Or(a=a[15],b=b[15],out=out[15]);
   }
 ```
+
 ## 10.Mux16
 #### code:
 ```
@@ -128,6 +131,7 @@ CHIP Not16 {
       Mux(a=a[15],b=b[15],sel=sel,out=out[15]);
     }
 ```
+
 ## 11.Or8Way
 #### code:
 ```
@@ -151,6 +155,7 @@ CHIP Not16 {
       Or(a=e,b=f,out=out);
     }
 ```
+
 ## 12.Mux4Way16
 #### code:
 ```
@@ -173,6 +178,7 @@ CHIP Not16 {
         Mux16(a=e,b=f,sel=sel[1],out=out);
     }
 ```
+
 ## 13.Mux8Way16
 #### code:
 ```
@@ -201,6 +207,7 @@ CHIP Not16 {
         Mux16(a=m,b=n,sel=sel[2],out=out);
     }
 ```
+
 ## 14.DMux4Way
 #### code:
 ```
@@ -223,6 +230,7 @@ CHIP Not16 {
           DMux(in=DMuxb,sel=sel[0],a=c,b=d);
       }
 ```
+
 ## 15.DMux8Way
 #### code:
 ```
@@ -249,3 +257,7 @@ CHIP Not16 {
           DMux(in=Df,sel=sel[0],a=g,b=h);
       }
 ```
+
+## picture:
+### :
+![image](https://github.com/yichien1019/co109a/blob/master/hw/2-1.jpg?raw=true)
