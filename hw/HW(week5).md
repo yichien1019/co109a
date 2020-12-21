@@ -134,4 +134,6 @@ Mux16(a=x,  b=false,  sel=zx, out=x1);    // if (zx == 1) set x = 0
 ```
 
 
+## picture:
+### :
 ![image](https://github.com/yichien1019/co109a/blob/master/hw/5-1.jpg?raw=true)
