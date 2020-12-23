@@ -1,3 +1,8 @@
+# 第三章完成(PC)
+
+## 1.PC
+#### code:
+```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -23,3 +28,8 @@ CHIP PC {
     Mux16(a=y,b=false,sel=reset,out=z);
     Register(in=z,load=true,out=pc,out=out);
 }
+```
+
+## picture:
+### :
+![image](https://github.com/yichien1019/co109a/blob/master/hw/7-1.jpg?raw=true)
