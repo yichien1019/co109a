@@ -260,12 +260,12 @@ CHIP Not16 {
 
 ## picture:
 ### :
-![image](https://github.com/yichien1019/co109a/blob/master/hw/2-1.jpg?raw=true)
+![image](https://github.com/yichien1019/co109a/blob/master/hw/2-1.jpg?raw=true){:height="50%" width="50%"}
 
-![image](https://github.com/yichien1019/co109a/blob/master/hw/2-2.jpg?raw=true)
+![image](https://github.com/yichien1019/co109a/blob/master/hw/2-2.jpg?raw=true){:height="50%" width="50%"}
 
-![image](https://github.com/yichien1019/co109a/blob/master/hw/2-3.jpg?raw=true)
+![image](https://github.com/yichien1019/co109a/blob/master/hw/2-3.jpg?raw=true){:height="50%" width="50%"}
 
-![image](https://github.com/yichien1019/co109a/blob/master/hw/2-4.jpg?raw=true)
+![image](https://github.com/yichien1019/co109a/blob/master/hw/2-4.jpg?raw=true){:height="50%" width="50%"}
 
-![image](https://github.com/yichien1019/co109a/blob/master/hw/2-5.jpg?raw=true)
+![image](https://github.com/yichien1019/co109a/blob/master/hw/2-5.jpg?raw=true){:height="50%" width="50%"}
