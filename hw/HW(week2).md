@@ -270,4 +270,4 @@ CHIP Not16 {
 
 ![image](https://github.com/yichien1019/co109a/blob/master/hw/2-5.jpg?raw=true)
 
-<img src="https://github.com/yichien1019/co109a/blob/master/hw/2-5.jpg?raw=true" style="width:50%">
+<img src="https://github.com/yichien1019/co109a/blob/master/hw/2-5.jpg?raw=true" style="height:50% width:50% ">
