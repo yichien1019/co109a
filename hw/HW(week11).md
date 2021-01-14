@@ -1,3 +1,7 @@
+# 第 11 週習題 -- 第五章第 1 題 Memory.hdl
+## 1.Memory:
+#### code:
+```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -36,3 +40,8 @@ CHIP Memory {
     Keyboard(out=ok);
     Mux4Way16(a=om, b=om, c=os, d=ok, sel=address[13..14], out=out);
 }
+```
+
+## picture:
+### :
+![image](https://github.com/yichien1019/co109a/blob/master/hw/11-1.jpg?raw=true)
