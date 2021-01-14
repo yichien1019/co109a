@@ -44,4 +44,4 @@ CHIP Memory {
 
 ## picture:
 ### :
-![image](https://github.com/yichien1019/co109a/blob/master/hw/11-1.jpg?raw=true)
+![image](https://github.com/yichien1019/co109a/blob/master/hw/11-1.jpg?raw=true)  
