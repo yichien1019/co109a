@@ -34,11 +34,11 @@ M=M-1 //計數器-1
 
 ## hack:
 #### picture:
-![image](https://github.com/yichien1019/co109a/blob/master/hw/9-1.jpg?raw=true) 
+![image](https://github.com/yichien1019/co109a/blob/master/hw/9-1.JPG) 
 
 ## result:
 #### picture:
-![image](https://github.com/yichien1019/co109a/blob/master/hw/9-2.jpg?raw=true) 
+![image](https://github.com/yichien1019/co109a/blob/master/hw/9-2.JPG) 
 
-![image](https://github.com/yichien1019/co109a/blob/master/hw/9-3.jpg?raw=true) 
+![image](https://github.com/yichien1019/co109a/blob/master/hw/9-3.JPG) 
 
