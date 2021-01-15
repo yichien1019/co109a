@@ -1,3 +1,7 @@
+#  HOMEWORK WEEK13
+## Computer:
+#### code:
+```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -28,3 +32,9 @@ CHIP Computer {
     CPU(inM=inM,instruction=instruction,reset=reset,writeM=writeM,outM=outM,addressM=addressM,pc=pc);
     Memory(in=outM,address=addressM,load=writeM,out=inM);
 }
+
+```
+
+## picture:
+### :
+![image](https://github.com/yichien1019/co109a/blob/master/hw/13-1.jpg?raw=true)  
