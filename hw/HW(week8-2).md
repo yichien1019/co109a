@@ -25,4 +25,7 @@ M=M+1
 0;JMP
 ```
 ## pictuure:
-![image](![image](https://github.com/yichien1019/co109a/blob/master/hw/8-2.JPG) )
+![image](![image](https://github.com/yichien1019/co109a/blob/master/hw/8-2.png) )
+
+
+
