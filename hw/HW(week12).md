@@ -1,3 +1,7 @@
+# 第 12 週習題 -- 第五章第 2 題 CPU.hdl
+## CPU:
+#### code:
+```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -60,3 +64,6 @@ Or(a=JLT, b=JGE, out=Pass);
 And(a=instruction[15], b=Pass, out=forPC);
 PC(in=A, load=forPC, inc=true, reset=reset, out[0..14]=pc);
 }
+```
+## picture:
+![image](12-1.JPG) 

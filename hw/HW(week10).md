@@ -1,3 +1,8 @@
+# 第十週習題 -- 第四章第二題 Fill.asm
+## Fill.asm:
+[Fill.asm](https://github.com/yichien1019/co109a/blob/master/04/fill/Fill.asm)
+#### code:
+```
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -40,3 +45,14 @@ A=A-D
 M=-1
 @18
 0;JMP
+```
+
+## hack:
+#### picture:
+![image](https://github.com/yichien1019/co109a/blob/master/hw/10-1.JPG) 
+
+## result:
+#### picture:
+![image](https://github.com/yichien1019/co109a/blob/master/hw/10-2.JPG) 
+
+![image](https://github.com/yichien1019/co109a/blob/master/hw/10-3.JPG) 
