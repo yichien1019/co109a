@@ -66,4 +66,4 @@ PC(in=A, load=forPC, inc=true, reset=reset, out[0..14]=pc);
 }
 ```
 ## picture:
-![image](12-1.JPG) 
+![image](https://github.com/yichien1019/co109a/blob/master/hw/12-1.jpg) 
