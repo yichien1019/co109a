@@ -54,5 +54,3 @@ M=-1
 ## result:
 #### picture:
 ![image](https://github.com/yichien1019/co109a/blob/master/hw/10-2.JPG) 
-
-![image](https://github.com/yichien1019/co109a/blob/master/hw/10-3.JPG) 
